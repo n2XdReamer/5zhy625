@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/n2XdReamer/5zhy625/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/n2XdReamer/5zhy625/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div class="output_wrapper" id="output_wrapper_id" style="font-size: 14px; color: rgb(80, 97, 109); line-height: 1.6; word-spacing: 0px; letter-spacing: 0px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif; margin: 0px 10%; text-align: center;"><h2 id="h" style="color: inherit; line-height: inherit; padding: 0px; margin: 2em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">欢迎来到无知の小♂讲堂|</span></h2>
+<h2 id="hr1ghtman5zhy" style="color: inherit; line-height: inherit; padding: 0px; margin: 2em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">无知，又名r1ghtman/5zhy，喜欢搞…实践研究(×)|</span></h2>
+<h3 id="hcncsboycozhycncsboyco27000" style="color: inherit; line-height: inherit; padding: 0px; margin: 2em 0px; font-weight: bold; font-size: 1.3em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;"><a href="zhy.cncsboy.co:27000" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; text-decoration: none; color: rgb(30, 107, 184); overflow-wrap: break-word;">无知の网站CNCSBOY.co</a></span></h3>
+<h3 id="h5zhy625presswww5zhy625press27000" style="color: inherit; line-height: inherit; padding: 0px; margin: 2em 0px; font-weight: bold; font-size: 1.3em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;"><a href="www.5zhy625.press:27000" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; text-decoration: none; color: rgb(30, 107, 184); overflow-wrap: break-word;">无知の网站5zhy625.press</a></span></h3>
+<h2 id="hsslcookieqwq" style="color: inherit; line-height: inherit; padding: 0px; margin: 2em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">注意:部分浏览器会显示网站危险(其实是ssl证书错误)继续登入就行，不会使用COOKIE。QWQ  </span></h2>
+<h2 id="h-1" style="color: inherit; line-height: inherit; padding: 0px; margin: 2em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">本站非危险证明</span></h2>
+<pre style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;"><code class="hljs objectivec" style="overflow-wrap: break-word; margin: 0px 2px; line-height: 18px; font-size: 14px; font-weight: normal; word-spacing: 0px; letter-spacing: 0px; font-family: Consolas, Inconsolata, Courier, monospace; border-radius: 0px; overflow-x: auto; padding: 0.5em; background: white; color: black; white-space: pre !important; word-wrap: normal !important; word-break: normal !important; overflow: auto !important; display: -webkit-box !important;">“@”&nbsp;解析的是<span class="hljs-number" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; color: rgb(0, 102, 102); word-wrap: inherit !important; word-break: inherit !important;">118.195</span><span class="hljs-number" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; color: rgb(0, 102, 102); word-wrap: inherit !important; word-break: inherit !important;">.188</span>.**(记录A)<br>“D”&nbsp;解析的是n2xdreamer.github.io(记录<span class="hljs-built_in" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; color: rgb(102, 0, 102); word-wrap: inherit !important; word-break: inherit !important;">CNAME</span>)<br>“WWW”&nbsp;解析的是<span class="hljs-number" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; color: rgb(0, 102, 102); word-wrap: inherit !important; word-break: inherit !important;">118.195</span><span class="hljs-number" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; color: rgb(0, 102, 102); word-wrap: inherit !important; word-break: inherit !important;">.188</span>.**(记录A)<br>域名是DNSPOD（腾讯云的）<br>SSL证书是DNSPOD下发的（用的是www.tangfeihu.xyz的SSLKEY）<br></code></pre>
+<h2 id="h-2" style="color: inherit; line-height: inherit; padding: 0px; margin: 2em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">注明</span></h2>
+<p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1em 0px;">```<br>各位大蛇不要D这个网站，小本开发。<br>想玩CSGO跑图服务器的去这个项目issues提（不要问为什么）。</p></div>
